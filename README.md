@@ -5,3 +5,4 @@
 ## Current Collection
 
 - ./jwt_auth/ : User login + Create Account + User Auth using JWT + MongoDB.
+- ./jwt_auth_ts/ : User login + Create Account + User Auth using JWT + MongoDB + TypeSafe (written in TS)
